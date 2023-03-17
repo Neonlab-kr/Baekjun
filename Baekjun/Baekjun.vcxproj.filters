@@ -126,5 +126,26 @@
     <ClCompile Include="2738.cpp">
       <Filter>소스 파일\sprout\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="11654.cpp">
+      <Filter>소스 파일\sprout\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="11718.cpp">
+      <Filter>소스 파일\sprout\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="27866.cpp">
+      <Filter>소스 파일\sprout\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="2743.cpp">
+      <Filter>소스 파일\sprout\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="2744.cpp">
+      <Filter>소스 파일\sprout\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="2754.cpp">
+      <Filter>소스 파일\sprout\Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="9086.cpp">
+      <Filter>소스 파일\sprout\Strings</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
