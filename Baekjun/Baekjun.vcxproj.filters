@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\sprout\Functions">
       <UniqueIdentifier>{c273d56b-2c22-47d4-9c91-508bac8f0519}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Class1">
+      <UniqueIdentifier>{75e360d6-851d-4335-aa69-75ba69f60a11}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10699.cpp">
@@ -152,6 +155,24 @@
     </ClCompile>
     <ClCompile Include="2475.cpp">
       <Filter>소스 파일\sprout\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="2562.cpp">
+      <Filter>소스 파일\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2675.cpp">
+      <Filter>소스 파일\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2920.cpp">
+      <Filter>소스 파일\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="8958.cpp">
+      <Filter>소스 파일\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="10818.cpp">
+      <Filter>소스 파일\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="11720.cpp">
+      <Filter>소스 파일\Class1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
