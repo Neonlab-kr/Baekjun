@@ -147,5 +147,11 @@
     <ClCompile Include="9086.cpp">
       <Filter>소스 파일\sprout\Strings</Filter>
     </ClCompile>
+    <ClCompile Include="15964.cpp">
+      <Filter>소스 파일\sprout\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="2475.cpp">
+      <Filter>소스 파일\sprout\Functions</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
