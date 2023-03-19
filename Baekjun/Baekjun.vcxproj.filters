@@ -174,5 +174,11 @@
     <ClCompile Include="11720.cpp">
       <Filter>소스 파일\Class1</Filter>
     </ClCompile>
+    <ClCompile Include="1152.cpp">
+      <Filter>소스 파일\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="1157.cpp">
+      <Filter>소스 파일\Class1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
