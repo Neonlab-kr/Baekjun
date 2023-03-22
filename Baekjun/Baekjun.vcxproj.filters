@@ -222,5 +222,8 @@
     <ClCompile Include="4153.cpp">
       <Filter>소스 파일\Class2</Filter>
     </ClCompile>
+    <ClCompile Include="1018_2.cpp">
+      <Filter>소스 파일\Class2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
