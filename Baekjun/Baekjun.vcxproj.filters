@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\Sprout\Functions">
       <UniqueIdentifier>{c273d56b-2c22-47d4-9c91-508bac8f0519}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Class3">
+      <UniqueIdentifier>{0096c2fe-783a-4b6a-a99d-f69be9ed7583}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10699.cpp">
@@ -238,6 +241,21 @@
       <Filter>소스 파일\Class2</Filter>
     </ClCompile>
     <ClCompile Include="2798.cpp">
+      <Filter>소스 파일\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="1920.cpp">
+      <Filter>소스 파일\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="1929.cpp">
+      <Filter>소스 파일\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="2751.cpp">
+      <Filter>소스 파일\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="11650.cpp">
+      <Filter>소스 파일\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="11050.cpp">
       <Filter>소스 파일\Class2</Filter>
     </ClCompile>
   </ItemGroup>
