@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\Class3">
       <UniqueIdentifier>{0096c2fe-783a-4b6a-a99d-f69be9ed7583}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Bronze">
+      <UniqueIdentifier>{9daf22b1-3c17-4941-9b28-0c511a8be63a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10699.cpp">
@@ -305,6 +308,9 @@
     </ClCompile>
     <ClCompile Include="11724.cpp">
       <Filter>소스 파일\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="2558.cpp">
+      <Filter>소스 파일\Bronze</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
