@@ -220,6 +220,7 @@
     <ClCompile Include="2908.cpp" />
     <ClCompile Include="2920.cpp" />
     <ClCompile Include="3003.cpp" />
+    <ClCompile Include="3046.cpp" />
     <ClCompile Include="3052.cpp" />
     <ClCompile Include="3578.cpp" />
     <ClCompile Include="3749.cpp" />
