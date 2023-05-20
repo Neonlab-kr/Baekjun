@@ -225,6 +225,7 @@
     <ClCompile Include="2857.cpp" />
     <ClCompile Include="2884.cpp" />
     <ClCompile Include="2908.cpp" />
+    <ClCompile Include="2914.cpp" />
     <ClCompile Include="2920.cpp" />
     <ClCompile Include="3003.cpp" />
     <ClCompile Include="3046.cpp" />
