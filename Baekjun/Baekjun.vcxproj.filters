@@ -435,5 +435,8 @@
     <ClCompile Include="2373.cpp">
       <Filter>소스 파일\Platinum</Filter>
     </ClCompile>
+    <ClCompile Include="1067.cpp">
+      <Filter>소스 파일\Platinum</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
