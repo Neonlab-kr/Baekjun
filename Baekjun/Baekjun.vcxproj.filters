@@ -52,11 +52,11 @@
     <Filter Include="소스 파일\Bronze">
       <UniqueIdentifier>{9daf22b1-3c17-4941-9b28-0c511a8be63a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Class7">
-      <UniqueIdentifier>{9e62e7c4-bd4f-4864-9c4d-5af2382908ee}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Platinum">
       <UniqueIdentifier>{4624500c-0dd8-469a-8f9f-e210d1767145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class4">
+      <UniqueIdentifier>{00a1f46c-9d65-418c-ac45-df99a759bc8a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -446,6 +446,9 @@
     </ClCompile>
     <ClCompile Include="1297.cpp">
       <Filter>소스 파일\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="12865.cpp">
+      <Filter>소스 파일\Class4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
