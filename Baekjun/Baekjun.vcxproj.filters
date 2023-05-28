@@ -58,6 +58,9 @@
     <Filter Include="소스 파일\Class4">
       <UniqueIdentifier>{00a1f46c-9d65-418c-ac45-df99a759bc8a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Gold">
+      <UniqueIdentifier>{8d723f82-1183-4fb2-9143-a13942237e4b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10699.cpp">
@@ -452,6 +455,9 @@
     </ClCompile>
     <ClCompile Include="2263.cpp">
       <Filter>소스 파일\Class4</Filter>
+    </ClCompile>
+    <ClCompile Include="1285.cpp">
+      <Filter>소스 파일\Gold</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
