@@ -64,6 +64,9 @@
     <Filter Include="소스 파일\Silver">
       <UniqueIdentifier>{88a05dd2-794e-48df-8fd7-8fe0e9cf9cfd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Class5">
+      <UniqueIdentifier>{5edf8c2b-6988-4486-bdf2-2936bfe69611}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10699.cpp">
@@ -596,6 +599,9 @@
     </ClCompile>
     <ClCompile Include="1100.cpp">
       <Filter>소스 파일\Bronze</Filter>
+    </ClCompile>
+    <ClCompile Include="14003.cpp">
+      <Filter>소스 파일\Class5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
