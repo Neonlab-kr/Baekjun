@@ -603,5 +603,8 @@
     <ClCompile Include="14003.cpp">
       <Filter>소스 파일\Class5</Filter>
     </ClCompile>
+    <ClCompile Include="2460.cpp">
+      <Filter>소스 파일\Bronze</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
